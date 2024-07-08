@@ -6,6 +6,8 @@
 ## About Me 🚀
 
 ```typescript
+import { Introduction } from 'introduction.decorator';
+
 @Introduction({
   name: "Dmitry Aksenov",
   location: "Krakow, Poland",
