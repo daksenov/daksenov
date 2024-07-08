@@ -11,7 +11,7 @@
   location: "Krakow, Poland",
   company: "Cobham Satcom",
   role: "Senior Software Engineer",
-  hobbies: ["family", "dogs", "photography", "bicyles", "gaming"]
+  hobbies: ["dogs", "photography", "bicyles", "gaming", "hiking", "travelling"]
 })
 class SoftwareEngineer extends Engineer {
   experience: number;
