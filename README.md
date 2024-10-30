@@ -11,8 +11,7 @@ import { Introduction } from 'introduction.decorator';
 @Introduction({
   name: "Dmitry Aksenov",
   location: "Krakow, Poland",
-  company: "Cobham Satcom",
-  role: "Senior Software Engineer",
+  role: "Senior/Lead Software Engineer",
   hobbies: ["dogs", "photography", "bicyles", "gaming", "hiking", "travelling"]
 })
 class SoftwareEngineer extends Engineer {
